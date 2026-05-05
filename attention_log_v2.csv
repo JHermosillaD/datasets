@@ -1,4 +1,4 @@
-stamp,person_id,c_h,c_r,M,pos_x,pos_y,pos_z,roll,pitch,yaw,is_target,bbox_u,bbox_v,bbox_w,bbox_h
+stamp,person_id,A_h,A_r,A_m,pos_x,pos_y,pos_z,roll,pitch,yaw,is_target,bbox_u,bbox_v,bbox_w,bbox_h
 0.000000,19,0.645489,0.786678,0.507792,nan,nan,nan,nan,nan,nan,1,370,169,76,93
 1778008473.515299,19,0.644007,0.786609,0.506582,1.3429,-0.1617,1.5625,0.000,2.526,152.192,1,370,169,76,93
 1778008473.548668,19,0.637562,0.786609,0.501512,1.3429,-0.1617,1.5625,0.000,2.511,150.710,1,370,169,76,93
